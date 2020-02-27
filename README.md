@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](assets/ninja_id_card.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
