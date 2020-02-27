@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-![alt text](assets/ninja_id_card.png){:height="50%" width="50%"}
+
+<img src="https://raw.githubusercontent.com/TheElectricBlender/ninja_id/master/assets/ninja_id_card.png" width="360" height="720">
 
 ## Getting Started
 
