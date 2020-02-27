@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![alt text](assets/ninja_id_card.png)
+![alt text](assets/ninja_id_card.png){:height="50%" width="50%"}
 
 ## Getting Started
 
